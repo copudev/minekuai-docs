@@ -177,7 +177,7 @@ export const playlist: Track[] = [
     artist: '王睿卓',
     album: '单曲',
     url: '/music/王睿卓 - 茶花开了.flac',
-    cover: '/music/covers/属于你.jpg',
+    cover: '/music/covers/茶花开了.jpg',
   },
   {
     id: '10',
@@ -185,7 +185,7 @@ export const playlist: Track[] = [
     artist: '张德伊玲',
     album: '单曲',
     url: '/music/张德伊玲 - 只若初见.flac',
-    cover: '/music/covers/属于你.jpg',
+    cover: '/music/covers/只若初见.jpg',
   },
 ]
 
